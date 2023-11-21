@@ -1,0 +1,15 @@
+plotly==5.18.0
+pandas==2.1.2
+streamlit==1.28.1
+Pillow==10.1.0
+folium==0.15.0
+streamlit-folium==0.15.1
+haversine==2.8.0
+numpy==1.26.1
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+
+
+
+
+
