@@ -15,7 +15,7 @@ from streamlit_folium import folium_static
 st.set_page_config( page_title='Visão Entregadores', page_icon='', layout='wide')
 
 # Importar arquivo csv
-df = pd.read_csv( 'FTC_Aula34.1.csv' )
+df = pd.read_csv( 'dataset/FTC_Aula34.1.csv' )
 
 
 ##  =============================
